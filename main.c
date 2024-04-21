@@ -55,11 +55,12 @@ void MODFX_PARAM(uint8_t index, int32_t value)
   const float valf = q31_to_f32(value);
   switch (index)
   {
-    //Assign the value to rate when turning the time knob
+    //A knob
     case k_user_modfx_param_time:
       rate = (int)(valf * 511);
       break;
-      case k_user_modfx_param_depth:
+    //B Knob
+    case k_user_modfx_param_depth:
       depth = (int)(valf * 50);
       break;
     default:
