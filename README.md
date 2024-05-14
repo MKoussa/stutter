@@ -13,7 +13,7 @@ Please report any bugs or issues you might encounter and I'll try to resolve the
 
 ## Status
 
-> Version 2.0
+> Version 3.0
 
 |Logue|Tested|Status|
 |-|-|-|

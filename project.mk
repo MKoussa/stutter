@@ -4,9 +4,9 @@
 
 PROJECT = stutter
 
-UCSRC = main.c
+UCSRC = 
 
-UCXXSRC = 
+UCXXSRC = stutter.cpp
 
 UINCDIR =
 
