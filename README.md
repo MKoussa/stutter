@@ -27,4 +27,4 @@ Please reach out if you're interested in testing!
 
 ---
 
-Previous compiled binaries: [mkoussa.github.io/nts-1/](https://mkoussa.github.io/nts-1/)
+Previous compiled binaries: [mkoussa.github.io/](https://mkoussa.github.io/)
